@@ -4,6 +4,7 @@ I'm currently looking for a full-time position where I can leverage my skills in
 
 ---
 ## 🚀 My Projects
+### Project 1: Terraform with AWS
 * **Description:** "An infrastructure as code (IaC) project to provision a scalable and secure two-tier web application on AWS using Terraform. The infrastructure includes a custom VPC, public and private subnets, an internet gateway, a NAT gateway, and security groups."
 * **Technologies Used:** `AWS`, `Terraform`, `S3`, `EC2`, `RDS`, `VPC`
 * **GitHub Repository:** https://github.com/AldiTam/terraform-aws
