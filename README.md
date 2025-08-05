@@ -1,6 +1,13 @@
-## Hi there 👋
-- 🌱 I’m currently learning ...
-- 🔭 I’m currently working on ...
+# Hi, I'm Aldi 👋
+I am a Cloud and DevOps enthusiast focusing on the AWS ecosystem. I enjoy building, automating, and managing cloud infrastructure.
+I'm currently looking for a full-time position where I can leverage my skills in cloud computing and DevOps to contribute to a challenging and rewarding environment.
+
+---
+## 🚀 My Projects
+* **Description:** "An infrastructure as code (IaC) project to provision a scalable and secure two-tier web application on AWS using Terraform. The infrastructure includes a custom VPC, public and private subnets, an internet gateway, a NAT gateway, and security groups."
+* **Technologies Used:** `AWS`, `Terraform`, `S3`, `EC2`, `RDS`, `VPC`
+* **GitHub Repository:** `[(https://github.com/AldiTam/terraform-aws)]`
+## 🔧 Skills & Technologies
 
 
 <!--
