@@ -10,13 +10,13 @@ I'm currently looking for a full-time position where I can leverage my skills in
 * **GitHub Repository:** https://github.com/AldiTam/terraform-aws
 
 ### Project: Docker Container
-* **Description:** focused on containerizing a full-stack application using Docker and Docker Compose for local development. 
+* **Description:** Focused on containerizing application using Docker and Docker Compose for local development. 
 * **Technologies Used:** `Docker`, `Docker Compose`, `YAML`, `Node.js`, `React`, `Golang`
 * **GitHub Repository:** https://github.com/AldiTam/docker
 
 ### Project: Kubernetes
-* **Description:** An infrastructure as code (IaC) project to create a scalable and secure two-tier web application on AWS using Terraform.
-* **Technologies Used:** `AWS`, `Terraform`, `S3`, `EC2`, `RDS`, `VPC`
+* **Description:** Deploy and manage containerized applications on Kubernetes.
+* **Technologies Used:** `Kubernetes`, `Docker`, `YAML`, `minikube`
 * **GitHub Repository:** https://github.com/AldiTam/kubernetes
 
 ---
