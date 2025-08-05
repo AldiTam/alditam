@@ -5,11 +5,16 @@ I'm currently looking for a full-time position where I can leverage my skills in
 ---
 ## 🚀 My Projects
 ### Project 1: Terraform with AWS
-* **Description:** "An infrastructure as code (IaC) project to provision a scalable and secure two-tier web application on AWS using Terraform. The infrastructure includes a custom VPC, public and private subnets, an internet gateway, a NAT gateway, and security groups."
+* **Description:** "An infrastructure as code (IaC) project to create a scalable and secure two-tier web application on AWS using Terraform.
 * **Technologies Used:** `AWS`, `Terraform`, `S3`, `EC2`, `RDS`, `VPC`
 * **GitHub Repository:** https://github.com/AldiTam/terraform-aws
 ## 🔧 Skills & Technologies
 
+fundamentals of Infrastructure as Code (IaC) and advances to complex topics like creating a custom VPC, deploying a two-tier application, and managing infrastructure with Terraform Cloud.
+
+Terraform, AWS, VPC, EC2, S3, RDS, Terraform Cloud
+
+HashiCorp Configuration Language
 
 <!--
 **AldiTam/alditam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
