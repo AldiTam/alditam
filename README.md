@@ -20,8 +20,7 @@ I'm currently looking for a full-time position where I can leverage my skills in
 * **GitHub Repository:** https://github.com/AldiTam/kubernetes
 
 ---
-  
-## 🔧 Skills & Technologies
+
 
 
 <!--
