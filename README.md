@@ -19,6 +19,16 @@ I'm currently looking for a full-time position where I can leverage my skills in
 * **Technologies Used:** `Kubernetes`, `Docker`, `YAML`, `minikube`
 * **GitHub Repository:** https://github.com/AldiTam/kubernetes
 
+### Project: Building an AI agent with n8n 
+* **Description:** Create an AI agent with n8n to automate payment reminders for overdue invoices
+* **Technologies Used:** `n8n`, `Docker
+* **GitHub Repository:** https://github.com/AldiTam/n8n-build-agent
+
+### Project: Build an AI agent with Docker Containers.
+* **Description:** Create an AI agent with n8n to automate payment reminders for overdue invoices
+* **Technologies Used:** `Docker`, `FastAPI`
+* **GitHub Repository:** https://github.com/AldiTam/n8n-build-agent
+
 ---
 
 
