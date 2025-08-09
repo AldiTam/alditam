@@ -26,7 +26,7 @@ I'm currently looking for a full-time position where I can leverage my skills in
 
 ### Project: Build an AI agent with Docker Containers.
 * **Description:** Build and deploy an AI agent with Docker containers
-* **Technologies Used:** `Docker`, `FastAPI`
+* **Technologies Used:** `Docker`, `FastAPI`, `Python`, `Langchain`, `PostgreSQL`
 * **GitHub Repository:** https://github.com/AldiTam/build-ai-agent
 
 ---
