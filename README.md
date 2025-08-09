@@ -25,7 +25,7 @@ I'm currently looking for a full-time position where I can leverage my skills in
 * **GitHub Repository:** https://github.com/AldiTam/n8n-build-agent
 
 ### Project: Build an AI agent with Docker Containers.
-* **Description:** Create an AI agent with n8n to automate payment reminders for overdue invoices
+* **Description:** Build and deploy an AI agent with Docker containers
 * **Technologies Used:** `Docker`, `FastAPI`
 * **GitHub Repository:** https://github.com/AldiTam/build-ai-agent
 
