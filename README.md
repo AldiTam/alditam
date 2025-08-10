@@ -1,5 +1,5 @@
 # Hi, I'm Aldi 👋
-I am a Cloud and DevOps enthusiast focusing on the AWS ecosystem. I enjoy building, automating, and managing cloud infrastructure.
+I am a Cloud, AI, and DevOps enthusiast focusing on the AWS ecosystem. I enjoy building, automating, and managing cloud infrastructure.
 I'm currently looking for a full-time position where I can leverage my skills in cloud computing and DevOps to contribute to a challenging and rewarding environment.
 
 ---
