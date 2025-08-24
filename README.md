@@ -5,6 +5,11 @@ I'm currently looking for a full-time position where I can leverage my skills in
 ---
 ## 🚀 My Projects
 
+### Project: Build an ELT Data Pipeline.
+* **Description:** Build an Extract, Load, and Transform data pipeline with dbt, Snowflake, and airflow.
+* **Technologies Used:** `Snowflake`, `dbt`, `Airflow`, `SQL`
+* **GitHub Repository:** https://github.com/AldiTam/ELT-data-pipeline
+
 ### Project: Build an AI agent with Docker Containers.
 * **Description:** Build and deploy an AI agent with Docker containers
 * **Technologies Used:** `Docker`, `FastAPI`, `Python`, `LangGraph`
