@@ -1,6 +1,7 @@
 # Hi, I'm Aldi 👋
-I am a Cloud, AI, DevOps, Data engineering enthusiast focusing on the AWS ecosystem. I enjoy building, automating, and managing cloud infrastructure.
-I'm currently looking for a full-time position where I can leverage my skills in cloud computing and DevOps to contribute to a challenging and rewarding environment.
+Bioinformatician and Data Scientist passionate about leveraging computational methods to unlock insights from biological data. I specialize in building robust data pipelines, automating complex workflows, and applying machine learning to process and analyze biological information.
+
+Currently seeking a challenging full-time position where I can contribute my skills to a forward-thinking team. Let's connect and build something impactful.
 
 ---
 ## 🚀 My Projects
