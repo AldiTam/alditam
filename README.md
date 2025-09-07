@@ -1,5 +1,5 @@
 # Hi, I'm Aldi 👋
-Bioinformatician and Data Scientist passionate about leveraging computational methods to unlock insights from biological data. I specialize in building robust data pipelines, automating complex workflows, and applying machine learning to process and analyze biological information.
+Bioinformatician passionate about leveraging computational methods to unlock insights from biological data. I specialize in building robust data pipelines, automating complex workflows, and applying machine learning to process and analyze biological information.
 
 Currently seeking a challenging full-time position where I can contribute my skills to a forward-thinking team. Let's connect and build something impactful.
 
